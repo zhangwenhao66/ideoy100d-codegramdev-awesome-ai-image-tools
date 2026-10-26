@@ -47,6 +47,7 @@ AI-powered background removal tool built for e-commerce, designers, and photogra
 ---
 
 ## AI Object Removal Tools
+- [Ideoy](https://ideoy.ai) - AI meme / viral video template generator (remake trending short-form templates from one photo/selfie)
 
 Tools that remove unwanted objects, people, text, or defects from images.
 
